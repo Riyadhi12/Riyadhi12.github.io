@@ -1,0 +1,19 @@
+.jumbotron {
+  padding-top: 6rem;
+  background-color: #e2edff;
+}
+
+#projects {
+  background-color: #e2edff;
+}
+
+section{
+  padding-top: 5rem;
+}
+
+.form-box {
+  background-color: aqua;
+  border: 1px solid #34bba9; /* Bingkai formulir */
+  padding: 20px; /* Ruang dalam kotak formulir */
+  border-radius: 8px; /* Untuk sudut melengkung */
+}
